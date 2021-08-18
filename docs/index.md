@@ -1,4 +1,6 @@
 Furkan Zengin
 
 
-                German:[german.pdf](https://github.com/tatanik501/Econ/files/7005070/german.pdf)  
+                German:[german.pdf](https://github.com/tatanik501/Econ/files/7005070/german.pdf)
+                English:[SA.pdf](https://github.com/tatanik501/Econ/files/7005086/SA.pdf)
+
