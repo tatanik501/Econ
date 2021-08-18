@@ -1,4 +1,4 @@
-* **This page contains codes of some books in Econometrics and Mathematical Economics and A1-B2 level german Vocabulary**.
+* _This page contains codes of some books in Econometrics and Mathematical Economics and A1-B2 level german Vocabulary_.
  
 
 
@@ -8,13 +8,13 @@
 Econometrics    |     Mathematical Economics    |       German
 ------------    |   -------------               |   -------------
 Introductory Econometrics    |    Introductory Mathematical Economics     | A1-B2 Vocabulary 
-Wooldridge: [Wooldridge](https://github.com/tatanik501/Econ/files/7005262/R.Woolridge.pdf)    |     Chiang    | DW-Lecture : [German](https://github.com/tatanik501/Econ/files/7005353/german.pdf)
+Wooldridge    |     Chiang    | Lecture
 
 
 
 
 
-* [Furkan Zengin](https://github.com/tatanik501)
+**Furkan Zengin**
 
                 
                 
