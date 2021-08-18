@@ -1,3 +1,6 @@
+* This page contains codes of some books in Econometrics and Mathematical Economics.
+* It also contains A1-B2 level german Vocabulary 
+
 
 Econometrics    |     Mathematical Economics    |       German
 ------------    |   -------------               |   -------------
@@ -7,6 +10,8 @@ Wooldridge: [Wooldridge](https://github.com/tatanik501/Econ/files/7005262/R.Wool
 
 
 
+
+* [Furkan Zengin](https://github.com/tatanik501)
 
                 
                 
