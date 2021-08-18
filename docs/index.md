@@ -2,6 +2,7 @@
 * It also contains A1-B2 level german Vocabulary 
 
 
+ 
 Econometrics    |     Mathematical Economics    |       German
 ------------    |   -------------               |   -------------
 Introductory Econometrics    |    Introductory Mathematical Economics     | A1-B2 Vocabulary 
