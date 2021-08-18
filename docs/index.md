@@ -1,5 +1,7 @@
-* This page contains codes of some books in Econometrics and Mathematical Economics.
-* It also contains A1-B2 level german Vocabulary 
+* **This page contains codes of some books in Econometrics and Mathematical Economics and A1-B2 level german Vocabulary**.
+ 
+
+
 
 
  
