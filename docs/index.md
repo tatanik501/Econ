@@ -1,6 +1,4 @@
 
-
-                  1                                2                             3
 Econometrics |    Mathematical Economics |   German
 ------------ |   ------------- |   -------------
 Introductory Econometrics | Introductory Mathematical Economics | A1-B2 Vocabulary 
