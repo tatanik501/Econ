@@ -5,9 +5,9 @@
 
 
  
-Econometrics    |     Mathematical Economics    |       German Vocabulary | English Vocabulary
-------------    |   -------------               |   ------------- | -------------
-Introductory Econometrics    |    Introductory Mathematical Economics     | A1-B2 Vocabulary | B2-C2 Vocabulary
+Econometrics    |     Mathematical Economics    |       German Vocabulary |  English Vocabulary
+------------    |   -------------               |   ------------- |  -------------
+Introductory Econometrics    |    Introductory Mathematical Economics     | A1-B2 Vocabulary |   B2-C2 Vocabulary
 Wooldridge    |     Chiang    | Lecture | Collection
 
 
