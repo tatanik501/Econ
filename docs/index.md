@@ -9,7 +9,7 @@ Econometrics    |     Mathematical Economics    |       German Vocabulary |  Eng
 ------------    |   -------------               |   ------------- |  -------------
 Introductory Econometrics    |    Introductory Mathematical Economics     | A1-B2 Vocabulary |   B2-C2 Vocabulary
 Wooldridge    |     Chiang    | Lecture | Collection
-[Gujarati](https://github.com/tatanik501/EconL/files/7071152/combinepdf.pdf) |
+Gujarati |
 
 
 
