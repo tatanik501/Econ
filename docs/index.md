@@ -12,7 +12,7 @@ Wooldridge    |     Chiang    | Lecture | Collection
 Gujarati |
 
 
-
+[Gujarati](C:\Users\Furkan\Desktop\guj\combinepdf.pdf)
 
 
 **Furkan Zengin**
