@@ -1,6 +1,6 @@
 * _This page contains codes of some books in Econometrics and Mathematical Economics and German and English Vocabulary_.
-* 
-Introductory Econometrics in R and Mathematical Economics in Python
+ 
+* Introductory Econometrics in R and Mathematical Economics in Python
  
 
 
